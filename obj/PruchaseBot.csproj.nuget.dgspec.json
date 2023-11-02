@@ -1,0 +1,75 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/temirlan/code/PruchaseBot/PruchaseBot.csproj": {}
+  },
+  "projects": {
+    "/home/temirlan/code/PruchaseBot/PruchaseBot.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/temirlan/code/PruchaseBot/PruchaseBot.csproj",
+        "projectName": "PruchaseBot",
+        "projectPath": "/home/temirlan/code/PruchaseBot/PruchaseBot.csproj",
+        "packagesPath": "/home/temirlan/.nuget/packages/",
+        "outputPath": "/home/temirlan/code/PruchaseBot/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/temirlan/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Components.Web": {
+              "target": "Package",
+              "version": "[7.0.13, )"
+            },
+            "Microsoft.Data.Sqlite": {
+              "target": "Package",
+              "version": "[7.0.13, )"
+            },
+            "Telegram.Bot": {
+              "target": "Package",
+              "version": "[19.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/7.0.111/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

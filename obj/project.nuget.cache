@@ -1,0 +1,31 @@
+{
+  "version": 2,
+  "dgSpecHash": "9+5XOhOo9A1ZxKDOGqwBGEVq4vdMnM71F+9hTf+r10SIyztaMtuPYv82ZnyFdbX/OyUyF0lO+MJ0QJaFEIp8GA==",
+  "success": true,
+  "projectFilePath": "/home/temirlan/code/PruchaseBot/PruchaseBot.csproj",
+  "expectedPackageFiles": [
+    "/home/temirlan/.nuget/packages/microsoft.aspnetcore.authorization/7.0.13/microsoft.aspnetcore.authorization.7.0.13.nupkg.sha512",
+    "/home/temirlan/.nuget/packages/microsoft.aspnetcore.components/7.0.13/microsoft.aspnetcore.components.7.0.13.nupkg.sha512",
+    "/home/temirlan/.nuget/packages/microsoft.aspnetcore.components.analyzers/7.0.13/microsoft.aspnetcore.components.analyzers.7.0.13.nupkg.sha512",
+    "/home/temirlan/.nuget/packages/microsoft.aspnetcore.components.forms/7.0.13/microsoft.aspnetcore.components.forms.7.0.13.nupkg.sha512",
+    "/home/temirlan/.nuget/packages/microsoft.aspnetcore.components.web/7.0.13/microsoft.aspnetcore.components.web.7.0.13.nupkg.sha512",
+    "/home/temirlan/.nuget/packages/microsoft.aspnetcore.metadata/7.0.13/microsoft.aspnetcore.metadata.7.0.13.nupkg.sha512",
+    "/home/temirlan/.nuget/packages/microsoft.data.sqlite/7.0.13/microsoft.data.sqlite.7.0.13.nupkg.sha512",
+    "/home/temirlan/.nuget/packages/microsoft.data.sqlite.core/7.0.13/microsoft.data.sqlite.core.7.0.13.nupkg.sha512",
+    "/home/temirlan/.nuget/packages/microsoft.extensions.dependencyinjection/7.0.0/microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "/home/temirlan/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/7.0.0/microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "/home/temirlan/.nuget/packages/microsoft.extensions.logging.abstractions/7.0.1/microsoft.extensions.logging.abstractions.7.0.1.nupkg.sha512",
+    "/home/temirlan/.nuget/packages/microsoft.extensions.options/7.0.1/microsoft.extensions.options.7.0.1.nupkg.sha512",
+    "/home/temirlan/.nuget/packages/microsoft.extensions.primitives/7.0.0/microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "/home/temirlan/.nuget/packages/microsoft.jsinterop/7.0.13/microsoft.jsinterop.7.0.13.nupkg.sha512",
+    "/home/temirlan/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
+    "/home/temirlan/.nuget/packages/sqlitepclraw.bundle_e_sqlite3/2.1.4/sqlitepclraw.bundle_e_sqlite3.2.1.4.nupkg.sha512",
+    "/home/temirlan/.nuget/packages/sqlitepclraw.core/2.1.4/sqlitepclraw.core.2.1.4.nupkg.sha512",
+    "/home/temirlan/.nuget/packages/sqlitepclraw.lib.e_sqlite3/2.1.4/sqlitepclraw.lib.e_sqlite3.2.1.4.nupkg.sha512",
+    "/home/temirlan/.nuget/packages/sqlitepclraw.provider.e_sqlite3/2.1.4/sqlitepclraw.provider.e_sqlite3.2.1.4.nupkg.sha512",
+    "/home/temirlan/.nuget/packages/system.io.pipelines/7.0.0/system.io.pipelines.7.0.0.nupkg.sha512",
+    "/home/temirlan/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512",
+    "/home/temirlan/.nuget/packages/telegram.bot/19.0.0/telegram.bot.19.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
