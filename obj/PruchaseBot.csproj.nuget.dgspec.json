@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/temirlan/code/PruchaseBot/PruchaseBot.csproj": {}
+    "/home/temirlan/code/PurchaseBot/PruchaseBot.csproj": {}
   },
   "projects": {
-    "/home/temirlan/code/PruchaseBot/PruchaseBot.csproj": {
+    "/home/temirlan/code/PurchaseBot/PruchaseBot.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/temirlan/code/PruchaseBot/PruchaseBot.csproj",
+        "projectUniqueName": "/home/temirlan/code/PurchaseBot/PruchaseBot.csproj",
         "projectName": "PruchaseBot",
-        "projectPath": "/home/temirlan/code/PruchaseBot/PruchaseBot.csproj",
+        "projectPath": "/home/temirlan/code/PurchaseBot/PruchaseBot.csproj",
         "packagesPath": "/home/temirlan/.nuget/packages/",
-        "outputPath": "/home/temirlan/code/PruchaseBot/obj/",
+        "outputPath": "/home/temirlan/code/PurchaseBot/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/temirlan/.nuget/NuGet/NuGet.Config"

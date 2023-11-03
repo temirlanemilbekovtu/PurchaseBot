@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9+5XOhOo9A1ZxKDOGqwBGEVq4vdMnM71F+9hTf+r10SIyztaMtuPYv82ZnyFdbX/OyUyF0lO+MJ0QJaFEIp8GA==",
+  "dgSpecHash": "dXrsawNFlly0UzTYXrFgFNQTZrwXbMVZU6n3xpcsz2cHB17OAaP2n9QgTZ+mvHBJF1OYBcaSfoz2o0aDsYYwPA==",
   "success": true,
-  "projectFilePath": "/home/temirlan/code/PruchaseBot/PruchaseBot.csproj",
+  "projectFilePath": "/home/temirlan/code/PurchaseBot/PruchaseBot.csproj",
   "expectedPackageFiles": [
     "/home/temirlan/.nuget/packages/microsoft.aspnetcore.authorization/7.0.13/microsoft.aspnetcore.authorization.7.0.13.nupkg.sha512",
     "/home/temirlan/.nuget/packages/microsoft.aspnetcore.components/7.0.13/microsoft.aspnetcore.components.7.0.13.nupkg.sha512",
