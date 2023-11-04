@@ -945,9 +945,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/temirlan/code/PurchaseBot/PruchaseBot.csproj",
-      "projectName": "PruchaseBot",
-      "projectPath": "/home/temirlan/code/PurchaseBot/PruchaseBot.csproj",
+      "projectUniqueName": "/home/temirlan/code/PurchaseBot/PurchaseBot.csproj",
+      "projectName": "PurchaseBot",
+      "projectPath": "/home/temirlan/code/PurchaseBot/PurchaseBot.csproj",
       "packagesPath": "/home/temirlan/.nuget/packages/",
       "outputPath": "/home/temirlan/code/PurchaseBot/obj/",
       "projectStyle": "PackageReference",
@@ -1005,7 +1005,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/7.0.111/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/7.0.112/RuntimeIdentifierGraph.json"
       }
     }
   }
