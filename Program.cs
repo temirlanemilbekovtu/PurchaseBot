@@ -6,7 +6,7 @@ public static class Program
 {
     public static async Task Main(string[] args)
     {
-        SqliteConnection db = new("Data Source=/home/temirlan/.sqlitedb/cerberus.db");
+        SqliteConnection db = new("Data Source=/home/temirlan/code/PurchaseBot/cerberus.db");
         db.Open();
 
         TelegramBot bot = new("6934414496:AAEaQ11l2KpCdpQSRLphy_mk0qLZe8w8UwI", db);
